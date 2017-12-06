@@ -8,9 +8,9 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in Bay Area Game Devs to help us create safe and positive experiences for everyone.
 
-## 2. Open Culture
+## 2. Positive Culture
 
-A supplemental goal of this Code of Conduct is to increase open culture by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to support positive culture by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -57,15 +57,15 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Please send a private message to @tessercat or @bentle_giant in such an event.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Please email bayareagamedevs@gmail.com, or send a private message to @tessercat or @bentle_giant in such an event.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
+Once organizers have been made aware of an incident, we will review all information and conduct an appropriate investigation and discussion relative to the incident. Any incidents that result in accusations of violations and actions to correct such violations will be expressly communicated to all applicable parties.
+
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify @tessercat with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify bayareagamedevs@gmail.com or PM @tessercat or @bentle_giant with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
 
 ## 9. Scope
 
@@ -75,9 +75,11 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Joshua Jon Herbert
-joshherbert@gmail.com
-@tessercat on the Bay Area Game Devs Slack group.
+Email: bayareagamedevs@gmail.com
+
+Mods and owners:
+@tessercat on the Bay Area Game Devs Slack group
+@bentle_giant on the Bay Area Game Devs Slack group
 
 ## 11. License and attribution
 
