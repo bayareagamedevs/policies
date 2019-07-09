@@ -26,6 +26,7 @@ The following behaviors are expected and requested of all community members:
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+  * Please use your full name for your profile. This is primarily to avoid confusion and abuse of anonymity.
 
 ## 4. Unacceptable Behavior
 
@@ -78,8 +79,10 @@ This code of conduct and its related procedures also applies to unacceptable beh
 Email: bayareagamedevs@gmail.com
 
 Mods and owners:
-@tessercat on the Bay Area Game Devs Slack group
-@bentle_giant on the Bay Area Game Devs Slack group
+#@tessercat - workspace owner
+#@bentle_giant - admin
+#@inkarray - admin
+#@zedairus - admin
 
 ## 11. License and attribution
 
