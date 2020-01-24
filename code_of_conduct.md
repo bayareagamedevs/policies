@@ -20,13 +20,14 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviors are expected and requested of all community members:
 
+  * Use your full name for your profile. This is primarily to avoid confusion and abuse of anonymity.
+  * Thread your conversations in any auto-add channels. This keeps channels clean, and messages easy to parse.
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
   * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-  * Please use your full name for your profile. This is primarily to avoid confusion and abuse of anonymity.
 
 ## 4. Unacceptable Behavior
 
@@ -89,6 +90,8 @@ Mods and owners:
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+
+_Revision 2.5. Posted 24 January 2020. Added an item on threading conversations in auto add channels to #3 Expected Behaviors._
 
 _Revision 2.4. Posted 9 July 2019._
 
