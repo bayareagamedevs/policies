@@ -26,12 +26,16 @@ The following behaviors are expected and requested of all community members:
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
+  * Exercise discrection and respect when using @ for individuals. @ing someone will send a notification to them. This should only occur when the message to that person is urgent, or you are attempting to bring their attention to something they might not see otherwise (for instance, if they are not active in a channel you are posting in).
+    - e.g. Do not @ people who you are engaged in direct conversation with. They will see your message without the @.
+  * Exercise discretion and respect when Direct Messaging. Similar to @'s, DMs send a notification to whoever is in the DM (it can be multiple people), and it suggests the nature of the DM is urgent.
   * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+  * Be nice! We reserve the authority to ban members for any behavior we deem unacceptable.
 
 ## 4. Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+The following behaviors are considered harassment and are unacceptable within our community. This list is inclusive but not exhaustive:
 
   * Violence, threats of violence or violent language directed against another person.
   * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -40,7 +44,7 @@ The following behaviors are considered harassment and are unacceptable within ou
   * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
   * Inappropriate photography or recording.
   * Inappropriate physical contact. You should have someone's consent before touching them.
-  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, or groping; and unwelcomed sexual advances of any kind.
   * Deliberate intimidation, stalking or following (online or in person).
   * Advocating for, or encouraging, any of the above behavior.
   * Sustained disruption of community events, including talks and presentations.
@@ -91,7 +95,9 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.5. Posted 24 January 2020. Added an item on threading conversations in auto add channels to #3 Expected Behaviors._
+_Revision 2.6. Posted 26 March 2020. Added items on @'s and DMs to section #3 Expected Behavior; Added a "be nice" clause to section #3 Expected Behavior; Added more robust language to support section #4 Unacceptable Behavior. -Joshua H._
+
+_Revision 2.5. Posted 24 January 2020. Added an item on threading conversations in auto add channels to section #3 Expected Behavior._
 
 _Revision 2.4. Posted 9 July 2019._
 
