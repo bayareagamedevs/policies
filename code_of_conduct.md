@@ -28,6 +28,8 @@ The following behaviors are expected and requested of all members:
   * Exercise consideration and respect in your speech and actions.
   * Attempt collaboration before conflict.
   * Refrain from demeaning, discriminatory, or harassing behavior and speech.
+  * Any posts that contain sensitive material must be threaded behind a Content Warning (CW). This is to protect members who do not want to see such material, or who may suffer psychological distress if exposed to it.
+    - The format should be "CW: [Generalized Topic]"
   * Exercise discretion and respect when using @ for individuals. @ing someone will send a notification to them. This should only occur when the message to that person is urgent, or you are attempting to bring their attention to something they might not see otherwise (for instance, if they are not active in a channel you are posting in).
     - e.g. Do not @ people who you are engaged in direct conversation with. They will see your message without the @.
   * Exercise discretion and respect when Direct Messaging. Similar to @'s, DMs send a notification to whoever is in the DM (it can be multiple people), and it suggests the nature of the DM is urgent.
@@ -97,7 +99,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-
+_Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3.
 _Revision 2.6.2 Posted 26 March 2020. Added the other admins to Section #7 and #8. Revised section #8 to include a reservation for admins to discipline or ban any member based on admin discretion. Revised overall language; "mods" and "community organizers/leaders" are now "admins", "users" and "community members" are now "members". Added a criteria for being a game working in the Bay Area in Section #3.
 _Revision 2.6.1 Posted 26 March 2020. Fixed a typo in line 29.
 _Revision 2.6. Posted 26 March 2020. Added items on @'s and DMs to section #3 Expected Behavior; Added a "be nice" clause to section #3 Expected Behavior; Added more robust language to support section #4 Unacceptable Behavior. -Joshua H._
