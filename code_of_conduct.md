@@ -85,7 +85,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Email: bayareagamedevs@gmail.com
+Email: bayareagamedevs@proton.me
 
 Admins and owners:
 * Joshua Jon Herbert - @tessercat - workspace owner
@@ -99,6 +99,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
+_Revision 2.6.4 Posted 29 January 2025. Updated email address.
 _Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3.
 _Revision 2.6.2 Posted 26 March 2020. Added the other admins to Section #7 and #8. Revised section #8 to include a reservation for admins to discipline or ban any member based on admin discretion. Revised overall language; "mods" and "community organizers/leaders" are now "admins", "users" and "community members" are now "members". Added a criteria for being a game working in the Bay Area in Section #3.
 _Revision 2.6.1 Posted 26 March 2020. Fixed a typo in line 29.
