@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Bay Area Game Devs community managers by emailing bayaregamedevs@gmail.com, or by sending a PM to @tessercat or @bentle_giant in the Bay Area Game Devs Slack group. 
+If you believe someone is violating the code of conduct we ask that you report it to the Bay Area Game Devs community managers by emailing bayareagamedevs@proton.me, or by sending a PM to @tessercat or @bentle_giant in the Bay Area Game Devs Slack group. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -47,7 +47,7 @@ Finally, the response team will make a report on the situation to the Bay Area G
 
 ## Appealing the response
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Bay Area Game Devs community managers at bayareagamedevs@gmail.com with your appeal and the Bay Area Game Devs community managers will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Bay Area Game Devs community managers at bayareagamedevs@proton.me with your appeal and the Bay Area Game Devs community managers will review the case.
 
 _Revision 1.0, DRAFT, proposed June 2014_
 _Reporting Guidelines derived from those of the [Django Software Foundation](https://www.djangoproject.com/conduct/reporting/)._
