@@ -1,6 +1,6 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Bay Area Game Devs community managers by emailing bayareagamedevs@proton.me, or by sending a PM to @tessercat or @bentle_giant in the Bay Area Game Devs Slack group. 
+If you believe someone is violating the code of conduct we ask that you report it to the Bay Area Game Devs community managers by emailing bayareagamedevs@proton.me, or by sending a PM to @tessercat or @bentle_giant in the Bay Area Game Devs Discord or Slack group. 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
@@ -35,7 +35,7 @@ Once the team has a complete account of the events they will make a decision as 
 * Nothing (if we determine no code of conduct violation occurred).
 * A private reprimand from the Code of Conduct response team to the individual(s) involved.
 * A public reprimand.
-* An imposed vacation (i.e. asking someone to "take a week off" from the Slack group or other events).
+* An imposed vacation (i.e. asking someone to "take a week off" from the Discord or Slack group or other events).
 * A permanent or temporary ban from some or all Bay Area Game Devs spaces (events, meetings, mailing lists, IRC, etc.)
 * A request to engage in mediation and/or an accountability plan.
 
