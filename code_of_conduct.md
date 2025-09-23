@@ -23,6 +23,7 @@ The following behaviors are expected and requested of all members:
   * We expect that all members are currently, have been, or will become a game worker within the larger Bay Area, California.
     - Remote work for companies or projects in the Bay Area satisfies this criteria.
   * Use your full name for your profile. This is primarily to avoid confusion and abuse of anonymity.
+  * In order to foster a safe space for the workers and creatives that join BAGD, we are solidifying our mission statement that BAGD is for game developers and those working in the video game industry.  As such, we will not be accepting applications from any individuals that champion generative AI, AI tools, AI scraping, or other methods that start from an AI-first development perspective.
   * Thread your conversations in any auto-add channels. This keeps channels clean, and messages easy to parse.
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
   * Exercise consideration and respect in your speech and actions.
@@ -87,11 +88,16 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 Email: bayareagamedevs@proton.me
 
-Admins and owners:
-* Joshua Jon Herbert - @tessercat - workspace owner
-* Benjamin Gross - @bentle_giant - admin
-* Karin Ray - @inkarray - admin
-* Danny Olefsky - @zedarius - admin
+Admins:
+* Joshua Jon Herbert - @tessercat
+* Benjamin Gross - @bentle_giant
+* Karin Ray - @inkarray
+* Danny Olefsky - @zedarius
+
+Moderators:
+* Chris Menezes - @thememedalorian
+* Tiana Oreglia - @tea7465
+
 
 ## 11. License and attribution
 
@@ -99,6 +105,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
+_Revision 2.6.5 Posted 22 September 2025. Updated Admins and Moderators sections. Added line 26, which outlines our admission policy regarding artificial intelligence. 
 _Revision 2.6.4 Posted 29 January 2025. Updated email address.
 _Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3.
 _Revision 2.6.2 Posted 26 March 2020. Added the other admins to Section #7 and #8. Revised section #8 to include a reservation for admins to discipline or ban any member based on admin discretion. Revised overall language; "mods" and "community organizers/leaders" are now "admins", "users" and "community members" are now "members". Added a criteria for being a game working in the Bay Area in Section #3.
