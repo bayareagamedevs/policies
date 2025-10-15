@@ -23,6 +23,7 @@ The following behaviors are expected and requested of all members:
   * We expect that all members are currently, have been, or will become a game worker within the larger Bay Area, California.
     - Remote work for companies or projects in the Bay Area satisfies this criteria.
   * Use your full name for your profile. This is primarily to avoid confusion and abuse of anonymity.
+  * Threats to harm others will result in immediate removal from this community, and your comments will be screenshot, deleted, and reported to local health and safety resources to help you get the support you need.  Threats to harm yourself may result in similar actions.  Our goal is to ensure that you are cared for by safe services in the area, but also that we protect our community from repercussions that can come with community association to serious threats or actions made upon those threats.
   * In order to foster a safe space for the workers and creatives that join BAGD, we are solidifying our mission statement that BAGD is for game developers and those working in the video game industry.  As such, we will not be accepting applications from any individuals that champion generative AI, AI tools, AI scraping, or other methods that start from an AI-first development perspective.
   * Thread your conversations in any auto-add channels. This keeps channels clean, and messages easy to parse.
   * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
@@ -105,6 +106,7 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
+_Revision 2.6.6 Posted 14 October 2025. Added line 26, which outlines threats of harm to self or others.
 _Revision 2.6.5 Posted 22 September 2025. Updated Admins and Moderators sections. Added line 26, which outlines our admission policy regarding artificial intelligence. 
 _Revision 2.6.4 Posted 29 January 2025. Updated email address.
 _Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3.
