@@ -106,16 +106,28 @@ The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stump
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
-_Revision 2.6.6 Posted 14 October 2025. Added line 26, which outlines threats of harm to self or others.
-_Revision 2.6.5 Posted 22 September 2025. Updated Admins and Moderators sections. Added line 26, which outlines our admission policy regarding artificial intelligence. 
-_Revision 2.6.4 Posted 29 January 2025. Updated email address.
-_Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3.
-_Revision 2.6.2 Posted 26 March 2020. Added the other admins to Section #7 and #8. Revised section #8 to include a reservation for admins to discipline or ban any member based on admin discretion. Revised overall language; "mods" and "community organizers/leaders" are now "admins", "users" and "community members" are now "members". Added a criteria for being a game working in the Bay Area in Section #3.
-_Revision 2.6.1 Posted 26 March 2020. Fixed a typo in line 29.
+_Revision 2.6.6 Posted 14 October 2025. Added line 26, which outlines threats of harm to self or others._
+
+_Revision 2.6.5 Posted 22 September 2025. Updated Admins and Moderators sections. Added line 26, which outlines our admission policy regarding artificial intelligence._
+
+_Revision 2.6.4 Posted 29 January 2025. Updated email address._
+
+_Revision 2.6.3 Posted 26 March 2020. Am I numbering these revisions correctly? Added a line for Content Warnings in Section #3._
+
+_Revision 2.6.2 Posted 26 March 2020. Added the other admins to Section #7 and #8. Revised section #8 to include a reservation for admins to discipline or ban any member based on admin discretion. Revised overall language; "mods" and "community organizers/leaders" are now "admins", "users" and "community members" are now "members". Added a criteria for being a game working in the Bay Area in Section #3._
+
+_Revision 2.6.1 Posted 26 March 2020. Fixed a typo in line 29._
+
 _Revision 2.6. Posted 26 March 2020. Added items on @'s and DMs to section #3 Expected Behavior; Added a "be nice" clause to section #3 Expected Behavior; Added more robust language to support section #4 Unacceptable Behavior. -Joshua H._
+
 _Revision 2.5. Posted 24 January 2020. Added an item on threading conversations in auto add channels to section #3 Expected Behavior._
+
 _Revision 2.4. Posted 9 July 2019._
+
 _Revision 2.3. Posted 6 March 2017._
+
 _Revision 2.2. Posted 4 February 2016._
+
 _Revision 2.1. Posted 23 June 2014._
+
 _Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
