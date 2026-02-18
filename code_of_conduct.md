@@ -13,6 +13,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 ## 3. Eligibility Criteria
 The following behaviors are expected and requested of all members:
 
+
 * Admission to BAGD is reviewed on a case by case basis and is not guaranteed.
 * We expect that all members are currently, have been, or will become a game worker within the larger Bay Area, California.
     * Remote work for companies or projects in the Bay Area satisfies this criteria.
@@ -21,11 +22,14 @@ The following behaviors are expected and requested of all members:
     * Recruiters who work at recruiting agencies are not eligible.  Recruiters who are embedded at existing game companies will be considered on a case by case basis.
 * Display your full name for your profile.  This is primarily to avoid confusion and abuse of anonymity.
 
+
 ## 4. Expected Behavior
 The following behaviors are expected and requested of all members:
 
+
  **Threats**
 * Threats to harm others will result in immediate removal from this community, and your comments will be screenshot, deleted, and reported to local health and safety resources to help you get the support you need.  Threats to harm yourself may result in similar actions.  Our goal is to ensure that you are cared for by safe services in the area, but also that we protect our community from repercussions that can come with community association to serious threats or actions made upon those threats.
+
 
  **AI**
 * BAGD is an opt-in community regarding generative AI, LLMs, and related topics (henceforth referred to as "AI").  This means that pro AI topics are not welcome in BAGD unless consent has been obtained.
@@ -35,6 +39,7 @@ The following behaviors are expected and requested of all members:
     * Fruitful discussion about AI as it changes and continues to impact our industry is permitted.
     * Members who are forced to use AI in their workplace discussing AI as a means to survive is permitted.
 * BAGD Leadership will enforce these rules as with any other rules in these guidelines.
+
 
  **General Conduct**
 * Thread your conversations in any auto-add channels.  This keeps channels clean, and messages easy to parse.
@@ -51,8 +56,10 @@ The following behaviors are expected and requested of all members:
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 * Be nice! The admins reserve the authority to disciplne or ban members for any behavior we deem unacceptable.
 
+
 ## 5. Unacceptable Behavior
 The following behaviors are considered harassment and are unacceptable within our community.  This list is inclusive but not exhaustive:
+
 
 * Violence, threats of violence or violent language directed against another person.
 * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
@@ -66,28 +73,35 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks and presentations.
 
+
 ## 6. Weapons Policy
 No weapons will be allowed at Bay Area Game Devs events, community spaces, or in other spaces covered by the scope of this Code of Conduct.  Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others.  Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.  Members are further expected to comply with all state and local laws on this matter.
+
 
 ## 7. Consequences of Unacceptable Behavior
 Unacceptable behavior from any member, including sponsors and those with decision-making authority, will not be tolerated.
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 If a member engages in unacceptable behavior, BAGD leadership may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
+
 ## 8. Reporting Guidelines
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify an admin as soon as possible.  Please send a Direct Message to any Admin or Mod in such an event (contact information below, in section 11).  If you have screenshots or other recordings it is recommended that you include them for record keeping.  Response time may be limited.
 Additionally, admins and mods are available to help members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.  In the context of in-person events, admins will also provide escorts as desired by the person experiencing distress.
 Once admins have been made aware of an incident, we will review all information and conduct an appropriate investigation and discussion relative to the incident.  Any incidents that result in accusations of violations and actions to correct such violations will be expressly communicated to all applicable parties.
 
+
 ## 9. Moderation Actions and Appeals
 BAGD leadership will provide you with details regarding any moderation actions against your membership.  After complying with any conditions outlined, such as a timeframe before BAGD leadership will hear your appeals, you may send any appeals to bagd_support@proton.me.  Please include a concise description of moderation actions taken against your membership as well as your appeal.  All appeals will be reviewed on a case by case basis, and in accordance with our existing governing policies.  We ultimately reserve the authority to disciplne or ban members for any behavior we deem unacceptable.
+
 
 ## 10. Scope
 We expect all members (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of members.
 
+
 ## 11. Contact info
 Email: bagd_support@proton.me
+
 
 Admins:
 * Joshua Jon Herbert - @tessercat
@@ -95,9 +109,11 @@ Admins:
 * Karin Ray - @inkarray
 * Danny Olefsky - @zedarius
 
+
 Moderators:
 * Chris Menezes - @thememedalorian
 * Tiana Oreglia - @tea7465
+
 
 
 ## 12. License, attribution, and changelists
