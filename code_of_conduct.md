@@ -15,10 +15,10 @@ The following behaviors are expected and requested of all members:
 
 
 * Admission to BAGD is reviewed on a case by case basis and is not guaranteed.
-* We expect that all members are currently, have been, or will become a game worker within the larger Bay Area, California.
+* We expect that all members are currently, have been, or are actively aspiring to become a game worker within the larger Bay Area, California.
     * Remote work for companies or projects in the Bay Area satisfies this criteria.
 * In order to foster a safe space for the workers and creatives that join BAGD, we are solidifying our mission statement that BAGD is for game developers and those working in the video game industry.
-    * As such, we will not be accepting applications from any individuals that champion generative AI, AI tools, AI scraping, or other methods that start from an AI-first development perspective
+    * As such, we will not be accepting applications from any individuals that champion generative AI, AI tools, AI scraping, or other methods that start from an AI-first development perspective.
     * Recruiters who work at recruiting agencies are not eligible.  Recruiters who are embedded at existing game companies will be considered on a case by case basis.
 * Display your full name for your profile.  This is primarily to avoid confusion and abuse of anonymity.
 
@@ -33,11 +33,19 @@ The following behaviors are expected and requested of all members:
 
  **AI**
 * BAGD is an opt-in community regarding generative AI, LLMs, and related topics (henceforth referred to as "AI").  This means that pro AI topics are not welcome in BAGD unless consent has been obtained.
+* What constitutes AI?
+    * ChatGPT, Gemini, Claude, and/or any of their derivatives.
+    * AI summaries from search engines like Google and DuckDuckGo.
+    * AI chatbots built into apps and services like Meta, GitHub, etc.
+    * AI tools that generate content like images, text, audio, code, etc.
+* What constitutes pro AI behavior?
     * Championing, evangelizing, and otherwise posting AI generated content will not be tolerated.
     * It is considered evangelizing if the overwhelming volume of a member's posts are about AI tools or features.
     * AI generated images and other content will be taken down and the poster will be notified.  Repeat offenses will result in disciplinary action.
+* What constitutes acceptable AI discourse?
     * Fruitful discussion about AI as it changes and continues to impact our industry is permitted.
     * Members who are forced to use AI in their workplace discussing AI as a means to survive is permitted.
+* BAGD has made channels where discussion of AI topics is allowed, however all previous guidelines above MUST be followed, even in these spaces.
 * BAGD Leadership will enforce these rules as with any other rules in these guidelines.
 
 
@@ -52,9 +60,10 @@ The following behaviors are expected and requested of all members:
 * Exercise discretion and respect when using @ for individuals. @ing someone will send a notification to them.  This should only occur when the message to that person is urgent, or you are attempting to bring their attention to something they might not see otherwise (for instance, if they are not active in a channel you are posting in).
     * e.g. Do not @ people who you are engaged in direct conversation with. They will see your message without the @.
 * Exercise discretion and respect when Direct Messaging.  Similar to @'s, DMs send a notification to whoever is in the DM (it can be multiple people), and it suggests the nature of the DM is urgent.
+    * This extends to DMing Admins/Mods in regards to concerns. Please utilize the #create-support-ticket channel unless you are uncomfortable sending your message to the entire leadership group.
 * Be mindful of your surroundings and of your fellow participants.  Alert admins if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
-* Be nice! The admins reserve the authority to disciplne or ban members for any behavior we deem unacceptable.
+* Be nice! The admins reserve the authority to discipline or ban members for any behavior we deem unacceptable.
 
 
 ## 5. Unacceptable Behavior
@@ -85,13 +94,20 @@ If a member engages in unacceptable behavior, BAGD leadership may take any actio
 
 
 ## 8. Reporting Guidelines
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify an admin as soon as possible.  Please send a Direct Message to any Admin or Mod in such an event (contact information below, in section 11).  If you have screenshots or other recordings it is recommended that you include them for record keeping.  Response time may be limited.
+If you are subject to or witness unacceptable behavior in any of our online communities, or have any other concerns, please submit a ticket through the discord #create-support-ticket channel.
+* A new channel will be created with yourself and the admins/mods.
+* If you have screenshots or other recordings it is recommended that you include them for record keeping.
+
+If you are subject to or witness unacceptable behavior in any of our in-person events or gatherings, or have any other concerns, please find and notify a present admin or mod.
+* If none are present, please use the above ticketing tool to contact us.
+
 Additionally, admins and mods are available to help members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe.  In the context of in-person events, admins will also provide escorts as desired by the person experiencing distress.
 Once admins have been made aware of an incident, we will review all information and conduct an appropriate investigation and discussion relative to the incident.  Any incidents that result in accusations of violations and actions to correct such violations will be expressly communicated to all applicable parties.
 
+Finally, any of the above information may be sent to bagd_support@proton.me.  In all reporting cases, response time may be limited.
 
 ## 9. Moderation Actions and Appeals
-BAGD leadership will provide you with details regarding any moderation actions against your membership.  After complying with any conditions outlined, such as a timeframe before BAGD leadership will hear your appeals, you may send any appeals to bagd_support@proton.me.  Please include a concise description of moderation actions taken against your membership as well as your appeal.  All appeals will be reviewed on a case by case basis, and in accordance with our existing governing policies.  We ultimately reserve the authority to disciplne or ban members for any behavior we deem unacceptable.
+BAGD leadership will provide you with details regarding any moderation actions against your membership.  After complying with any conditions outlined, such as a timeframe before BAGD leadership will hear your appeals, you may send any appeals to bagd_support@proton.me.  Please include a concise description of moderation actions taken against your membership as well as your appeal.  All appeals will be reviewed on a case by case basis, and in accordance with our existing governing policies.  We ultimately reserve the authority to discipline or ban members for any behavior we deem unacceptable.
 
 
 ## 10. Scope
@@ -104,15 +120,13 @@ Email: bagd_support@proton.me
 
 
 Admins:
-* Joshua Jon Herbert - @tessercat
-* Benjamin Gross - @bentle_giant
-* Karin Ray - @inkarray
-* Danny Olefsky - @zedarius
-
+* @tessercat
+* @bentle_giant
+* @inkarray
 
 Moderators:
-* Chris Menezes - @thememedalorian
-* Tiana Oreglia - @tea7465
+* @thememedalorian
+* @tea7465
 
 
 
@@ -120,6 +134,7 @@ Moderators:
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
+_Revision 3.0.1 Posted 18 February 2025. Rework of AI policy with extra detail, updates to Reporting Guidelines, removal of full names from contact info._
 _Revision 3.0.0 Posted 17 February 2025. Rework of entire CoC. Including new policy for AI, moderation actions, and contact info. Overall condensing of CoC._
 _Revision 2.6.6 Posted 14 October 2025. Added line 26, which outlines threats of harm to self or others._
 _Revision 2.6.5 Posted 22 September 2025. Updated Admins and Moderators sections. Added line 26, which outlines our admission policy regarding artificial intelligence._
